@@ -1,4 +1,32 @@
-## Hi there 👋
+# 👨‍💻 Привет! Я [ТВОЁ ИМЯ]  
+
+🚀 **Flutter & Python разработчик** | 💡 **Создаю решения, которые имеют значение для людей и бизнеса**  
+
+## 🏆 О себе  
+- 🏗 **Разрабатываю мобильные приложения и бэкенд**  
+- 🎯 **Решаю бизнес-задачи через программирование**  
+- 🔥 **Изучаю новые технологии и создаю полезные продукты**  
+- 💼 **Хочу развиваться в коммерческой разработке**  
+
+## 💻 Навыки  
+🔹 **Frontend**: Flutter, Dart  
+🔹 **Backend**: Python, FastAPI, Aiogram  
+🔹 **Базы данных**: PostgreSQL, SQLite  
+🔹 **Сетевые технологии**: TCP/UDP, OpenVPN  
+🔹 **DevOps**: Docker, CI/CD  
+
+## 📌 Текущие проекты  
+🔹 **VPN-клиент** (монетизация, удобный доступ)  
+🔹 **Приложение для съемки с двух устройств** (реальное время, P2P)  
+🔹 **Telegram-боты** (автоматизация, админ-функции)  
+
+## 📫 Контакты  
+🔹 **Telegram**: [@YourUsername](https://t.me/YourUsername)  
+🔹 **Email**: your.email@example.com  
+🔹 **LinkedIn**: [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
+
+🚀 **Пишите, если хотите обсудить идеи или сотрудничество!**  
+
 
 <!--
 **Maximum404/Maximum404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
