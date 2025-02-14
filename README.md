@@ -11,8 +11,6 @@
 ## 💻 Навыки  
 🔹 **Frontend**: Flutter, Dart  
 🔹 **Backend**: Python, FastAPI, Aiogram  
-🔹 **Базы данных**: Firebase, SQLite  
-🔹 **Сетевые технологии**:  REST API, WIFI Direct, Webrtc, OpenVPN  
 🔹 **UI/UX**: Figma  
 
 ## 📌 Текущие проекты  
