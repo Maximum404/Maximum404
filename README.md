@@ -37,8 +37,6 @@
 ## 📫 Контакты  
 🔹 **Telegram**: [@maxdevcode](https://t.me/maxdevcode)  
 🔹 **GitHub**: [Maximum404](https://github.com/Maximum404)  
-🔹 **LinkedIn**: [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
-🔹 **Email**: your.email@example.com  
 
 💡 **Открыт к сотрудничеству и обсуждению идей!** 🚀  
 
